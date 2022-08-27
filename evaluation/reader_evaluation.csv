@@ -1,4 +1,4 @@
-,Company,Sector,Query,Method,Passage 1,Passage 2,Passage 3,Passage 4,Passage 5,Passage 6,Passage 7,Passage 8,Passage 9,Passage 10,labels,Answer Passage,Answer,Predictions,Score
+,Company,Sector,Query,Method,Passage 1,Passage 2,Passage 3,Passage 4,Passage 5,Passage 6,Passage 7,Passage 8,Passage 9,Passage 10,labels,Answer Passage,Answer
 0,Blackstone_External%20Review%20Report.pdf,Corporate-Real Estate,what did the use of proceeds finance?,T5,"12  
 The eligible categories for the use of proceeds – Green Buildings, Renewable Energy, Energy Efficiency, Clean 
 Transportation and Tenant Relationships – are aligned with those recognized by the Green Bond Principles 
@@ -210,8 +210,7 @@ specified by BPPEH  – BREEAM Good, LEED Silver, HQE Good and DGNB Silver  – 
 below market standards . Sustainalytics additionally recognizes that for certain classes 
 of developments, such as log istics properties, lower levels of certification may be 
 aligned with market expectations , and that approximately 60% of the Company’s 
-building portfolio is in  this sector.  Sustainalytics therefore  considers the certification ","[1, 2, 3, 7, 9, 10]",1,"Green Buildings, Renewable Energy, Energy Efficiency, Clean  Transportation and Tenant Relationships","Green Buildings, Renewable Energy, Energy Efficiency, Clean 
-Transportation and Tenant Relationships",0.5676506757736206
+building portfolio is in  this sector.  Sustainalytics therefore  considers the certification ","[1, 2, 3, 7, 9, 10]",1,"Green Buildings, Renewable Energy, Energy Efficiency, Clean  Transportation and Tenant Relationships"
 1,Castellum_External%20Review%20Report.pdf,Corporate-Real Estate,what did the use of proceeds finance?,T5,"2.3.1  Use of Proceeds  
 The proceeds of the notes issued by Castellum will be used to finance projects that fall under the 
 categories outlined below.  
@@ -288,7 +287,7 @@ report will disclose the aggregate market value and the sum of existing external
 will also disclose the sum of unallocated proceeds, including any short -term investments.  
 Where Cast ellum is responsible for project operation, the reporting will also contain a disclosure of a 
 select set of asset -level indicators and measurements. This includes energy consumption, water 
-consumption, GHG emissions, use of renewable energy, as well as the  means of heating and cooling  ","[2, 5, 6, 7]",2,the development and/or acquisition  of new and existing real estate assets that  are certified against Miljöbyggnad or BREEAM stan dards,the development and/or acquisition  of new and existing real estate assets,0.0725831687450409
+consumption, GHG emissions, use of renewable energy, as well as the  means of heating and cooling  ","[2, 5, 6, 7]",2,the development and/or acquisition  of new and existing real estate assets that  are certified against Miljöbyggnad or BREEAM stan dards
 2,Cibus_External%20Review%20Report.pdf,Corporate-Real Estate,what did the use of proceeds finance?,T5,"6 Conclusion   
 Cibus  has developed the Cibus Green Bond Framework  under which it will issue green bonds and the use of 
 proceeds to finance green and energy efficient buildings.  Sustainalytics considers that the project s funded by 
@@ -516,7 +515,7 @@ ROLE(S) OF REVIEW PROVIDER
 ☐ Other (please specify) :   
 Note: In case of multiple reviews / different providers, please provide separate forms for each review.  
 EXECUTIVE SUMMARY OF REVIEW and/or LINK TO FULL REVIEW (if applicable)  
-Please refer to E valuation  Summary above.  ","[1, 2, 3, 5, 6, 9]",1,green and energy efficient buildings,green and energy efficient buildings,0.9435309767723083
+Please refer to E valuation  Summary above.  ","[1, 2, 3, 5, 6, 9]",1,green and energy efficient buildings
 3,CTP_External%20Review%20Report.pdf,Corporate-Real Estate,what did the use of proceeds finance?,T5,"Conclusion  
 CTP  has developed the CTP Green Bond Framework  under which it will issue green bonds and the use of 
 proceeds to finance r eal estate development and upgrades that may contribute to the improvement of the 
@@ -751,7 +750,7 @@ countries are introducing measures and strategies to achieve potential energy ga
 Czechia ’s p rojects that the implementation of the Directive could lead to emissions reduction per unit of floor 
 area of a building by 25 to 40% compared to 2010  levels .16 Similarly, Slovakia identifies buildings’ renovation 
 as the most important source of possible en ergy savings, between 30% and 60%, by 2030 compared to 2010  
-levels .17 Romania aims for a 37.5% improvement in energy efficiency by 2030, and  intends  to support energy ","[1, 2, 3, 4, 5, 7, 10]",1,r eal estate development and upgrades that may contribute to the improvement of the  energy performance of the building stock and increase renewable energy capacity in CEE,r eal estate development and upgrades,0.7327136397361755
+levels .17 Romania aims for a 37.5% improvement in energy efficiency by 2030, and  intends  to support energy ","[1, 2, 3, 4, 5, 7, 10]",1,r eal estate development and upgrades that may contribute to the improvement of the  energy performance of the building stock and increase renewable energy capacity in CEE
 4,Deutsche%20Wohnen_External%20Review%20Report.pdf,Corporate-Real Estate,what did the use of proceeds finance?,T5,"Conclusion   
 Deutsche Wohnen  has developed the Deutsche Wohnen Green Finance Framework  under which it will enter  
 into financing transaction and use the  proceeds to finance  and/or refinance  green building s, renewable energy 
@@ -966,8 +965,7 @@ In order to advance its commitment to sustainable construction, Deutsche Wohnen 
 EUR 300 million annual portfolio investments in building refurbishment  as well as creat ion of new districts 
 that achieve recognized certifications such as NaWoh or DGNB for up to 10,000 customers  by 2025 .9 In 2019, 
 Deutsche Wohnen compl eted 24 residential units which received DGNB Platinum and 44  residential  units that 
-were awarded the NaWoh quality seal.  ","[1, 2, 3, 4, 5, 6, 10]",1,"green building s, renewable energy  and clean transportation project that have environmental benef its","green building s, renewable energy 
-and clean transportation project",0.0716300904750824
+were awarded the NaWoh quality seal.  ","[1, 2, 3, 4, 5, 6, 10]",1,"green building s, renewable energy  and clean transportation project that have environmental benef its"
 5,Globalworth_External%20Review%20Report.pdf,Corporate-Real Estate,what did the use of proceeds finance?,T5," 
 Conclusion   
 Globalworth has developed the Globalworth  Green Bond Framework  under which it will issue green bonds and 
@@ -1161,7 +1159,7 @@ The following may be used or adapted, where appropriate, to summarise the scope 
 The review assessed the following elements and confirmed their alignment with the GBPs:  
 ☒ Use of Proceeds  ☒ Proce ss for Project Evaluation and 
 Selection  
-☒ Management of Proceeds  ☒ Reporting  ","[1, 3, 4, 5, 6, 8]",1,investments in green buildings and building efficiency upgrades in Poland and  Romania,investments in green buildings and building efficiency upgrades,0.421511709690094
+☒ Management of Proceeds  ☒ Reporting  ","[1, 3, 4, 5, 6, 8]",1,investments in green buildings and building efficiency upgrades in Poland and  Romania
 6,ICADE_External%20Review%20Report.pdf,Corporate-Real Estate,what did the use of proceeds finance?,T5,"  15 
 Use of proceeds categories as per GBP:  
 ☒ Renewable energy  
@@ -1224,7 +1222,7 @@ Additional disclosure:
 investments  
 ☐ Allocation to individual disbursements  ☒ Allocation to a portfolio of disbursements  
 ☒ Disclosure of portfolio balance of 
-unallocated proceeds  ☐ Other (please specify) : ","[1, 5]",5,the  construction and /or  renovation of green b uildings,the  construction and /or  renovation of green b uildings,0.2650396525859833
+unallocated proceeds  ☐ Other (please specify) : ","[1, 5]",5,the  construction and /or  renovation of green b uildings
 7,Johnson_External%20Review%20Report.pdf,Corporate-Real Estate,what did the use of proceeds finance?,T5,"Conclusion   
 JCI has developed the Johnson Controls Green Finance Framework under which it may issue Green 
 Financ ing s  and use the proceeds to finance projects in six  categories namely  Eco -efficient and/or circular 
@@ -1462,7 +1460,7 @@ constitute a sponsorship or endorsement by such owner. A list of our third -part
 respective terms of use is available on our website. For more information, 
 visit  http://www.sustainalytics.com/legal -disclaimers . 
 The issuer is fully responsible for certifying and ensuring the compliance with its commitments, for t heir 
-implementation and monitoring.  ","[1, 2, 3, 4, 5, 6, 7]",1,"projects in six  categories namely  Eco -efficient and/or circular  economy adapted products, production technologies and processes, Green Buildings, Pollution Prevention  and Control, Sustainable Water and Wastewater Management, Clean Transportation, and Renewable Energy",projects in six  categories,0.17031389474868774
+implementation and monitoring.  ","[1, 2, 3, 4, 5, 6, 7]",1,"projects in six  categories namely  Eco -efficient and/or circular  economy adapted products, production technologies and processes, Green Buildings, Pollution Prevention  and Control, Sustainable Water and Wastewater Management, Clean Transportation, and Renewable Energy"
 8,Specialfastigheter-External%20Review%20Report.pdf,Corporate-Real Estate,what did the use of proceeds finance?,T5,"Specialfastigheter has developed a Green Bond Framework under which it intends to issue green bonds. 
 Proceeds of the bonds will be used to finance or refinance, projects intended to improve the 
 environmental performance of the company’s property holdings. Specifically, proceeds will be allocated 
@@ -1571,8 +1569,7 @@ these suppliers have FSC or PEFC certifications for sustainable forestry operati
 environmental management verification for manufacturing operations.  Given this additional information, 
 Sustainalytics is confident that Specialfastighet er has strong guidelines to mitigate the unintended 
 consequences bio -power energy investments , ensuring  that the use of proceed s will render 
-environmental benefits .  ","[1, 2, 3, 4, 6]",1,projects intended to improve the  environmental performance of the company’s property holdings,"projects intended to improve the 
-environmental performance of the company’s property holdings",0.18213202059268951
+environmental benefits .  ","[1, 2, 3, 4, 6]",1,projects intended to improve the  environmental performance of the company’s property holdings
 9,tritax-eurobox_External%20Review%20Report.pdf,Corporate-Real Estate,what did the use of proceeds finance?,T5,"11 The eligible categories for the use of proceeds – Green Buildings, Renewable Energy, and Energy Efficie ncy – 
 are aligned with those recognized by the Green Bond Principles 2018 and the Green Loan Principles 2021. 
 Sustainalytics considers that financing projects in the eligible categories will l ead to positive environmental 
@@ -1806,7 +1803,7 @@ feature such as Use of Proceeds evaluated or assessed by qualified third parties
 providers or rating agencies, according to an established scoring/rating met hodology. The output may include 
 a focus on environm ental performance data, the process relative to the GBP, or another benchmark, such as 
 a 2 -degree climate change scenario. Such scoring/rating is distinct from credit ratings, which may 
-nonetheless reflec t material environmental risks.  ","[1, 2, 3, 4, 6, 9]",3,eligible green  projects that advance sustainable buildings  and logistics solutions  that reduce the carbon footprint of its operations,eligible green  projects,0.30103999376296997
+nonetheless reflec t material environmental risks.  ","[1, 2, 3, 4, 6, 9]",3,eligible green  projects that advance sustainable buildings  and logistics solutions  that reduce the carbon footprint of its operations
 10,Vesteda_External%20Review%20Report.pdf,Corporate-Real Estate,what did the use of proceeds finance?,T5,"Section 3. Detailed review  
 Reviewers are encouraged to provide the information below to the extent possible and use the comment 
 section to explain the scope of their review.  
@@ -1975,8 +1972,7 @@ the Harmonized Framework for Impact Reporting and will include the e stimated en
 equivalent) . This report will also be included on the investor relations section of the company 
 website.  
 - Based on the commitment to annual reporting, including quantitative impact metrics, 
-Sustainalytics considers t hese p rocedures to be aligned with market practice.  ","[1, 2, 3, 4, 7]",2,"in whole or in part, existing/future  assets  that will improve the sustainability of its residential real estate portfolio ","finance/refinance, in whole or in part, existing/future 
-assets",0.14310553669929504
+Sustainalytics considers t hese p rocedures to be aligned with market practice.  ","[1, 2, 3, 4, 7]",2,"in whole or in part, existing/future  assets  that will improve the sustainability of its residential real estate portfolio "
 11,V%C3%ADa%20C%C3%A9lere_External%20Review%20Report.pdf,Corporate-Real Estate,what did the use of proceeds finance?,T5," 
 Conclusion   
 Vía Célere  has developed the Vía Célere Green Bo nd Framework  under which it will issue green bonds and the 
@@ -2208,7 +2204,7 @@ ROLE(S) OF REVIEW PROVIDER
 ☐ Other (ple ase specify) :   
 Note: In case of multiple reviews / different providers, please provide separate forms for each review.  
 EXECUTIVE SUMMARY OF REVIEW and/or LINK TO FULL REVIEW (if applicable)  
-Please refer to E valuation  Summary above.  ","[1, 2, 3, 5, 8]",1,energy -efficient residential assets,energy -efficient residential assets,0.900909960269928
+Please refer to E valuation  Summary above.  ","[1, 2, 3, 5, 8]",1,energy -efficient residential assets
 12,Vonovia_External%20Review%20Report.pdf,Corporate-Real Estate,what did the use of proceeds finance?,T5,"Conclusion   
 Vonovia  has developed the Vonovia Green Bond Framework  under which it will issue green bonds and use the 
 proceeds to finance  and/or refinance  Green Buildings  and Energy Efficiency , Renewable Energy, and Clean 
@@ -2486,8 +2482,7 @@ by a significant amount before 2050, there is a demonstrated need for investment
 energy efficiency , and green buildings.  
 Sustainalytics is of the opinion that the project s financed under the Green Buildings and Energy Efficiency and 
 Renewable Energy catego ries  are impactful and could help to reduce the environmental footprint of Germany’s  
-buildings sector, as well as assisting Germany and the  EU in meeting its short and lo ng-term climate targets.  ","[1, 2, 3, 5, 9]",1,"Green Buildings  and Energy Efficiency , Renewable Energy, and Clean  Transportation projects","Green Buildings  and Energy Efficiency , Renewable Energy, and Clean 
-Transportation projects",0.4733670651912689
+buildings sector, as well as assisting Germany and the  EU in meeting its short and lo ng-term climate targets.  ","[1, 2, 3, 5, 9]",1,"Green Buildings  and Energy Efficiency , Renewable Energy, and Clean  Transportation projects"
 13,Xior_External%20Review%20Report.pdf,Corporate-Real Estate,what did the use of proceeds finance?,T5,"Conclusion  
 Xior  has developed the Xior Student Housing N.V. Green Finance Framework  under which it can  issue green 
 bonds , loans and other financing instruments  and the use of proceeds to finance energy efficient student 
@@ -2632,8 +2627,7 @@ implemented adequate  measures and is well positioned to manage and mitigate env
 risks commonly associated with the eligible categories.  
 Section 3: Impact of Use of Proceeds  
 All six  use of proceeds categories are aligned with those recognized  by the GBP.  Sustainalytics has focused 
-on four  below where the impact is specifically relevant in  the  local context.  ","[1, 2, 3, 4, 5, 9]",1," energy efficient student  residences, on -site renewable energy generation,  energy efficient technologies and appliances , clean  transportation infrastructures and  wastewater and waste  reduction projects","energy efficient student 
-residences",0.03809725120663643
+on four  below where the impact is specifically relevant in  the  local context.  ","[1, 2, 3, 4, 5, 9]",1," energy efficient student  residences, on -site renewable energy generation,  energy efficient technologies and appliances , clean  transportation infrastructures and  wastewater and waste  reduction projects"
 14,Baseload%20Capital_External%20Review%20Report.pdf,Corporate-Energy,what did the use of proceeds finance?,T5,"Section 3. Detailed review  
 Reviewers are encouraged to provide the information below to the extent possible and use the comment 
 section to explain the scope of their review.  
@@ -2784,7 +2778,7 @@ overarching objectives, strategy, policy and/or processes relating to environmen
 evaluation of the environmental features of the type of projects intended for the Use of Proceeds.  
 ii. Verification: An issuer can obtain independe nt verification against a designated set of criteria, typically 
 pertaining to business processes and/or environmental criteria. Verification may focus on alignment with 
-internal or external standards or claims made by the issuer. Also, evaluation of the en vironmentally ","[1, 3, 4, 5, 9]",1,"projects that generate energy from heat, including geothermal  and residual heat from industrial processes",projects that generate energy from heat,0.2625207006931305
+internal or external standards or claims made by the issuer. Also, evaluation of the en vironmentally ","[1, 3, 4, 5, 9]",1,"projects that generate energy from heat, including geothermal  and residual heat from industrial processes"
 15,E.ON_External%20Review%20Report.pdf,Corporate-Energy,what did the use of proceeds finance?,T5," 
 Conclusion  
 E.ON  SE has developed the E.ON Green Bond Framework, under which it intends to issue Green Bonds, and 
@@ -2880,7 +2874,7 @@ existing projects and the balance of the unallo cated proceeds.  In
 addition,  E.ON  is committed to impact reporting using quantitative 
 metrics, to be made  available in the company’s annual sustainability 
 report  and/or in a specific impact report . Sustainalytics views  E.ON’s  
-allocation and impact reportin g as aligned with  market practice.  ","[1, 3, 4, 10]",1,"investments in renewable energy, energy efficiency, and clean transportation ","investments in renewable energy, energy efficiency, and clean transportation",0.2855514883995056
+allocation and impact reportin g as aligned with  market practice.  ","[1, 3, 4, 10]",1,"investments in renewable energy, energy efficiency, and clean transportation "
 16,E.ON_External%20Review%20Report%202021.pdf,Corporate-Energy,what did the use of proceeds finance?,T5,"37 The eligible categories for the use of proceeds –Electricity Networks, Renewable Energy, Energy Efficiency, 
 Clean Transportation – are aligned with those recognized by the Green Bond Principles 2018. Sustainalytics 
 considers that financing of assets in the eligible categories will lead to posit ive environmental impacts by 
@@ -3066,7 +3060,7 @@ As part of this engagement, Sustainalytics held conversations with various membe
 team to understand the sustainability impact of their business processes and planned use of proceeds, as 
 well as management of proceeds and reporting aspects of the Framework. E.ON  representatives have 
 confirmed (1) they understand it is the so le responsibility of E.ON  to ensure that the information provided is 
-complete, accurate or up to date; (2) that they have provided Sustainalytics with all relevant information and ","[1, 2, 4, 5, 10]",2,assets and capital expenditures that support the energy transition and climate change  mitigation,assets and capital expenditures,0.30680879950523376
+complete, accurate or up to date; (2) that they have provided Sustainalytics with all relevant information and ","[1, 2, 4, 5, 10]",2,assets and capital expenditures that support the energy transition and climate change  mitigation
 17,ESB_External%20Review%20Report.pdf,Corporate-Energy,what did the use of proceeds finance?,T5," Use of proceeds:  
 - The four use s of proceeds (Renewable Energy, Energy Efficiency, Clean Transportation and Green 
 Buildings) are recognized as impactful by the GBP 2018. Sustainalytics is of the opinion that the  
@@ -3179,7 +3173,7 @@ Use of proceeds reporting:
 ☐ Linkage to in dividual bond(s)  ☒ Other (please specify):   
  Total funds distributed per 
 Eligible Category and/ or per 
-project where relevant  ","[1, 2, 3, 4, 7]",3,"in whole or in part, existing and future projects related to renewable  energy, energy efficiency, c lean transportation and green buildings",existing and future projects,0.05983974412083626
+project where relevant  ","[1, 2, 3, 4, 7]",3,"in whole or in part, existing and future projects related to renewable  energy, energy efficiency, c lean transportation and green buildings"
 18,innogy_External%20Review%20Report.pdf,Corporate-Energy,what did the use of proceeds finance?,T5," 
  11 
 Section 3.  Detailed review  
@@ -3287,7 +3281,7 @@ given the level of social and environmental due diligence performed and the regu
 ☒ Linkage to individual bond(s)  ☐ Other (please specify):  
  Information reported:  
  ☒ Allocated amounts  ☐ GB financed share of total investment  
- ☐ Other (please specify):    ","[1, 2, 3, 4, 5, 6, 7, 8]",4,investments  supporting the transformation of the energy system ,investments  supporting the transformation of the energy system,0.06567998230457306
+ ☐ Other (please specify):    ","[1, 2, 3, 4, 5, 6, 7, 8]",4,investments  supporting the transformation of the energy system 
 19,Midsummer_External%20Review%20Report.pdf,Corporate-Energy,what did the use of proceeds finance?,T5,"The  Framework is aligned with the four core components  of the Green Bond Principles 2018; Midsummer  
 has formed a Green Bond Committee  to oversee its green bond; transparent procedures have been put in 
 place for the management and tracking of funds; and commitments have been made to report on bond 
@@ -3415,7 +3409,7 @@ The following may be used or adapted, where appropriate, to summarise the scope 
 The review assessed the following elements and confirmed their alignment with the GBPs:  
 ☒ Use of Proceeds  ☒ Process for Project Evaluation and 
 Selection  
-☒ Management of Proceeds  ☒ Reporting  ","[1, 2, 3, 4, 5, 7]",3,existing   and future projects th at increase the use of renewable energy ,renewable energy,0.10279014706611633
+☒ Management of Proceeds  ☒ Reporting  ","[1, 2, 3, 4, 5, 7]",3,existing   and future projects th at increase the use of renewable energy 
 20,Landsvirkjun-External%20Review%20Report.pdf,Corporate-Energy,what did the use of proceeds finance?,T5,"  18 
 Section 3.  Detailed review  
 1. USE OF PROCEEDS  
@@ -3517,7 +3511,7 @@ allocated , and the remaining unallocated proceeds. This information will be ext
 With regards to impact reporting, Landsvirkjun commits to report annually on several  metrics  
 such as the newly added renewabl e electricity generation capacit y (in MW)  per project . 
 Sustainalytics considers that the company’s efforts to disclose information on environmental 
-impact are  in line with market best practice.  ","[1, 2, 3, 4, 7]",2,projects supporting the production of renewable energy in Iceland,projects supporting the production of renewable energy in Iceland,0.19606007635593414
+impact are  in line with market best practice.  ","[1, 2, 3, 4, 7]",2,projects supporting the production of renewable energy in Iceland
 21,neutral%20fuels_External%20Review%20Report.pdf,Corporate-Energy,what did the use of proceeds finance?,T5,"9 Conclusion  
 Neutral Capital Finance PLC has developed the Neutral Capital Finance PLC  Green Bond Framework  under 
 which it may  issue green bonds and the use of proceeds to finance and/or refinance, in whole or in part, 
@@ -3733,7 +3727,7 @@ feature such as Use of Proceeds evaluated or assessed by qualified third parties
 providers or rating agencies, according to an established scoring/rating methodology. The output may include 
 a focus on environmental performance data, the process relative to the GBP, or another benchmark, such as 
 a 2 -degree climate change scena rio. Such scoring/rating is distinct from credit ratings, which may 
-nonetheless reflect material environmental risks.  ","[1, 2, 3, 4, 5, 7]",1,"existing and/or future projects  for Neutral Fuels,  that are expected to provide positive environmental impact  and contribute towards the transition to low -carbon t ransportation",Neutral Fuels,0.05632811412215233
+nonetheless reflect material environmental risks.  ","[1, 2, 3, 4, 5, 7]",1,"existing and/or future projects  for Neutral Fuels,  that are expected to provide positive environmental impact  and contribute towards the transition to low -carbon t ransportation"
 22,Repower_External%20Review%20Report.pdf,Corporate-Energy,what did the use of proceeds finance?,T5,"1. USE OF PROCEEDS  
 Overall comment on section (if applicable) :  
 Repower will use the net proceeds of the Green SSD  to finance or refinance the company’s i nvestments 
@@ -3803,8 +3797,7 @@ About Sustainalytics  21 ","For this issuance, Repower will use the net proceeds
 million  bond reaching maturity which has also funded renewable energy inve stments.  The proceeds of 
 the issuance  will be immediately allocated towards ref inancing eligible projects, in line with the book 
 value of each project as of December 31st, 2016 . Repower’s total investment made in wind and 
-hydropower plants over the past ye ars significantly exceeds the net proceeds of this Green SSD.  ","[1, 2, 3, 4, 5, 8, 10]",1,the company’s i nvestments  in renewable energy,"to finance or refinance the company’s i nvestments 
-in renewable energy",0.22984395921230316
+hydropower plants over the past ye ars significantly exceeds the net proceeds of this Green SSD.  ","[1, 2, 3, 4, 5, 8, 10]",1,the company’s i nvestments  in renewable energy
 23,RWE_External%20Review%20Report.pdf,Corporate-Energy,what did the use of proceeds finance?,T5,"Sustainalytics is of the opinion that projects funded through the Framework are impactful in the EU and US 
 context, contributing to reduce energy related CO 2 emissions by increasing renewable power generation and 
 subsequently reducing the average carbon intensity of the electricity generated.  
@@ -4033,7 +4026,7 @@ RWE’s processes for management of proceeds is handled by the Finance & Risk De
 be allocated to eligible projects and tracked via RWE’s internal tracking and accounting systems. RWE will 
 strive to maintain a level of allocation which matche s or exceeds the balance of net proceeds from its 
 outstanding green bonds. Any unallocated proceeds will be temporarily held in RWE’s liquidity portfolio 
-invested in cash and cash equivalents. This is in line with market practice.  ","[2, 3, 4, 5, 7]",3,"the conception, development, construction, installation and  acquisition of renewable energy production units, specifically solar energy, onshore and offshore  wind farms",refinancing,0.3223523497581482
+invested in cash and cash equivalents. This is in line with market practice.  ","[2, 3, 4, 5, 7]",3,"the conception, development, construction, installation and  acquisition of renewable energy production units, specifically solar energy, onshore and offshore  wind farms"
 24,Synthesis%20Analytics_External%20Review%20Report.pdf,Corporate-Energy,what did the use of proceeds finance?,T5,"3 In addition, the Second -Party Opinion opines on the intended allocation of proceeds but does not guarantee 
 the realised allocation of the bond proceeds towards eligible activities.  
 No information provided by Sustainalytics under the present Second -Party Opinion shall be considered as 
@@ -4275,7 +4268,7 @@ Alignment with/ contribution  to SDGs
 The Sustainable Development Goals (SDGs) were set in September 2015 and form an agenda for achieving 
 sustainable development by the year 2030. This  green bond advances the following SDG goa ls and targe ts:  
 Use of Proceeds 
-Category  SDG  SDG target  ","[1, 2, 3, 4, 7]",2,"HPC centres and provide green computing products and  solutions that improve energy efficiency, reduce waste and capture waste -heat",proc eeds,0.018568217754364014
+Category  SDG  SDG target  ","[1, 2, 3, 4, 7]",2,"HPC centres and provide green computing products and  solutions that improve energy efficiency, reduce waste and capture waste -heat"
 25,Water%20Wheel_External%20Review%20Report.pdf,Corporate-Energy,what did the use of proceeds finance?,T5,"8 Section 3. Detailed review  
 Reviewer s are encouraged to provide the information below to the extent possible and use the comment 
 section to explain the scope of their review.  
@@ -4466,7 +4459,7 @@ ma nagement of proceeds and reporting to be aligned with market practice. Based 
 considerations, Sustainalytics is of the opinion that Water Wheel Green Securities  is well positioned to issue 
 green bonds  and that the Water Wheel Green Securities Green Bond Framework is robust, credible, transparent 
 and in alignment with the Gr een Bond Principles  2018 . 
-  ","[1, 2, 3, 5, 7, 10]",2,renewable energy projects that  help reduce total greenhouse gas (GHG)  emissions by increasing ren ewable energy production through the rooftop solar installation s,existing  and  future  renewable energy projects,0.20268675684928894
+  ","[1, 2, 3, 5, 7, 10]",2,renewable energy projects that  help reduce total greenhouse gas (GHG)  emissions by increasing ren ewable energy production through the rooftop solar installation s
 26,Alpha%20Trains_External%20Review%20Report.pdf,Corporate-Transportation,what did the use of proceeds finance?,T5,"Use of Proceeds  
 Eligibility Criteria  
 Proceeds of the placement , to be issued by Alpha Trains Finance S.A.,  which is the financing company 
@@ -4531,7 +4524,7 @@ assessing fleets for environmental and labour standards, use of energy efficienc
 lighting, use of meters for monitoring energy use, recycling rate of trains, etc. For a full list of the Group ’s 
 Voluntary Environmental and Social Criteria, please see Appendix 3. Specifically, with respect to the assets 
 refinanced through the proceeds of this placement, the tra ins meet the Voluntary Environmental and 
-Social Criteria as explained below:  ","[1, 2, 3]",1,debt  associated with the acquisition of  two  Electric Multiple Unit (EMU) fleets,refinance debt,0.11388185620307922
+Social Criteria as explained below:  ","[1, 2, 3]",1,debt  associated with the acquisition of  two  Electric Multiple Unit (EMU) fleets
 27,Ferrovie_External%20Review%20Report.pdf,Corporate-Transportation,what did the use of proceeds finance?,T5,"• The eligible categories for the use of proceeds are aligned with those recognized by I CMA’s Green 
 Bond Principles. Ferrovie disclosed a comprehensive level of detail for elig ible proj ects for each 
 category. In  Sustainalytics ’ opinion the use of proceeds provides  a clear environmental benefit 
@@ -4602,8 +4595,7 @@ annual basis on Ferrovie’s website. An external auditor  will verify the alloc
 Projects ” and the remaining balance of unallocated proceeds on an annual basis, disclosed in Ferrovie’s 
 annual report review. Furthermore, Ferrovie will disclose relevant impact metrics on an annual basis per 
 eligible category. Sustainalytics believes tha t the company’s effort to measure and disclose impact metrics 
-are also in line with market best practice.  ","[1, 2, 3, 4]",2,new projects   or existing  projects  (refinancing  may apply to  project s dat ed back  a maximum  of two  years ) to renew the   firm’s  Public Transport Rolling Stock,"new projects  
-or existing  projects",0.5115185976028442
+are also in line with market best practice.  ","[1, 2, 3, 4]",2,new projects   or existing  projects  (refinancing  may apply to  project s dat ed back  a maximum  of two  years ) to renew the   firm’s  Public Transport Rolling Stock
 28,Volkswagen_External%20Review%20Report%202020.pdf,Corporate-Transportation,what did the use of proceeds finance?,T5," 
 Section 3. Detailed review  
 Reviewers are encouraged to provide the information below to the extent possible and use the comment 
@@ -4745,4 +4737,4 @@ conventional vehicles using an internal combustion engine, zero exhaust emission
 driving BEVs.19  ","As part of this engagement, Sustainalytics held conversations with various members of  VW’s  management 
 team to understand the sustainability impact of their business processes and planned use of proceeds, as well 
 as management of proceeds and reporting aspects of  VW’s  green bond s and loans . Sustainalytics also 
-reviewed relevant public documents and non -public information.  ","[1, 2, 3, 4, 8, 9]",3,the development and  implementation of the Modular -Electrification Toolkit ( MEB) technology for electric vehicles,to finance or refinance,0.01086149550974369
+reviewed relevant public documents and non -public information.  ","[1, 2, 3, 4, 8, 9]",3,the development and  implementation of the Modular -Electrification Toolkit ( MEB) technology for electric vehicles
